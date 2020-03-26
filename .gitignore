@@ -3,3 +3,5 @@ node_modules/
 messages.db
 *.key
 
+delete.js
+whatsApp.js
